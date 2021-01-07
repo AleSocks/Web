@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <string name="app_name">CaiSsr</string>
+
+  <string name="per_app_proxy">分应用代理</string>
+  <string name="buy_label">购买套餐</string>
+  <string name="setting_label">设置</string>
+  <string name="app_label">应用代理</string>
+  <string name="buy_alipay_label">支付宝购买</string>
+
+  <string name="quick_toggle">开关</string>
+  <string name="all_data">全部流量</string>
+  <string name="used_data">已用流量</string>
+  <string name="has_data">剩余流量</string>
+  <string name="buy">续期</string>
+  <string name="checkin">签到</string>
+  <string name="user">请输入邮箱</string>
+  <string name="pass">请输入密码</string>
+  <string name="login">登录</string>
+  <string name="reg">注册</string>
+  <string name="code">请输入验证码</string>
+  <string name="send_code">发送</string>
+  <string name="inv_code">请输入邀请码</string>
+  <string name="save_user">创建账户</string>
+  <string name="have_user">已有账户</string>
+
+  <string name="global_vpn">全局代理开关</string>
+  <string name="global_vpn_text">全局使用代理，关闭后使用gfwlistBanAD。</string>
+  <string name="udp">UDP开关</string>
+  <string name="udp_text">代理UDP，游戏等进行代理。</string>
+  <string name="app">设置分应用代理</string>
+  <string name="app_text">应用代理或绕行模式代理，如游戏类。</string>
+  <string name="app_btn">设置</string>
+  <string name="Obfs">混淆</string>
+  <string name="Obfs_text">自定义混淆网址处，留空则默认。</string>
+  <string name="Obfs_btn">设置</string>
+  <string name="kf">联系客服</string>
+  <string name="kf_text">有什么不明白(点击前请安装邮件APP)。</string>
+  <string name="kf_btn">客服</string>
+  <string name="logout">退出</string>
+  <string name="logout_text">退出当前账号。</string>
+  <string name="logout_btn">退出</string>
+
+  <string name="bypass_apps">绕行模式</string>
+  <string name="on">开</string>
+
+  <string name="link">连接</string>
+  <string name="update">升级</string>
+
+  <string name="buy_time">套餐时间</string>
+  <string name="end_time">已到期</string>
+
+  <string name="system_gg">系统公告：</string>
+  <string name="system_gg_btn">确定</string>
+  <string name="system_msg">系统提示：</string>
+  <string name="system_msg_text">您的账号已过期，请尽快续费方可继续使用。</string>
+  <string name="btn_close">取消</string>
+  <string name="btn_ok">确定</string>
+
+  <string name="ping_null">超时</string>
+  <string name="online">在线</string>
+  <string name="bei">倍率</string>
+  <string name="test_link">测速中</string>
+  <string name="link_close">断开</string>
+  <string name="link_close_msg">正在断开...</string>
+  <string name="link_close_msg_text">正在断开节点...</string>
+  <string name="link_on_msg">正在启动...</string>
+  <string name="link_on_msg_text">正在启动节点...</string>
+  <string name="link_on_ok">节点启动成功</string>
+
+  <string name="checkin_msg">请稍后...</string>
+  <string name="checkin_msg_text">正在努力的签到...</string>
+  <string name="buy_msg">加载中...</string>
+  <string name="buy_msg_text">加载内容中...</string>
+  <string name="buy_system_msg">只支持支付宝支付哦，支付成功返回刷新即可！</string>
+  <string name="buy_line">正在排队请稍后...</string>
+  <string name="buy_system_close">取消支付</string>
+  <string name="buy_ok">已经支付</string>
+  <string name="buy_ok_r">已续费成功，返回点右上角刷新即可</string>
+  <string name="buy_ok_r2">如果已经支付，返回点右上角刷新即可。</string>
+  <string name="buy_close_ok">已取消成功</string>
+  <string name="buy_buy_btn">购买</string>
+
+  <string name="checkin_msg_error">签到失败，请重试</string>
+  <string name="node_msg">加载节点...</string>
+  <string name="node_msg_text">加载节点内容中...</string>
+
+
+  <string name="user_msg">请正确输入账号</string>
+  <string name="email_msg">请正确输入邮箱</string>
+  <string name="email_code_msg">请正确输入邮箱验证码</string>
+  <string name="pass_msg">请正确输入密码</string>
+  <string name="login_msg">登录中...</string>
+  <string name="login_error">账号或密码错误</string>
+  <string name="reg_msg">注册中...</string>
+  <string name="reg_msg_text">正在注册中...</string>
+  <string name="reg_error">注册失败</string>
+  <string name="email_code_send">发送中...</string>
+  <string name="email_code_ok">发送</string>
+  <string name="email_code_error">发送失败</string>
+  <string name="email_code_send_text">发送邮箱验证码中...</string>
+  <string name="proxied_apps">分应用代理</string>
+  <string name="stopping">正在关闭……</string>
+  <string name="proxy_empty">代理服务器地址及密码不能为空</string>
+  <string name="method_unsafe">警告：当前使用的加密算法不安全</string>
+  <string name="invalid_server">服务器名无效</string>
+  <string name="service_failed">无法连接远程服务器</string>
+  <string name="reboot_required">VPN 服务启动失败。你可能需要重启设备。</string>
+  <string name="forward_success">后台服务已开始运行。</string>
+  <string name="stat_summary">发送: \t%3$s\t↑\t%1$s/s\n接收: \t%4$s\t↓\t%2$s/s</string>
+  <string name="start_service">连接到 %s</string>
+  <string name="stop_service">切换到 %s</string>
+  <string name="toggle_service_state">启动服务</string>
+  <string name="start_service_default">连接到当前服务器</string>
+  <string name="stop">停止</string>
+  <string name="traffic_summary">%1$s/s↑\t%2$s/s↓</string>
+  <string name="nat_no_root">NAT 模式需要 ROOT 权限</string>
+  <plurals name="bytes" translatable="false">
+    <item quantity="one">Byte</item>
+    <item quantity="other">Bytes</item>
+  </plurals>
+  <plurals name="removed">
+    <item quantity="one">已删除</item>
+    <item quantity="other">已删除 %d 项</item>
+  </plurals>
+  <string name="undo">撤销</string>
+
+  <string name="setting_Obfs">混淆参数</string>
+  <string name="setting_Obfs_ok">混淆参数设置成功！</string>
+
+  <string name="action_apply_all">应用</string>
+
+  <!-- status -->
+  <string name="sent">发送:</string>
+  <string name="received">接收:</string>
+
+  <string name="connection_test_pending">Check Connectivity</string>
+  <string name="connection_test_testing">Testing…</string>
+  <string name="connection_test_available">Success: %dms latency</string>
+  <string name="connection_test_error">Fail to detect internet connection: %s</string>
+  <string name="connection_test_fail">Internet Unavailable</string>
+  <string name="connection_test_error_status_code">Error code: #%d</string>
+  <string name="service_ssr" translatable="false">SSR Service</string>
+  <string name="service_v2ray" translatable="false">V2Ray Service</string>
+  <string name="service_nat" translatable="false">Nat Service</string>
+
+  <string name="ssrsub_error">地址不正确或网络不可用。</string>
+  <string name="action_export_msg">导出至剪贴板成功</string>
+  <string name="action_export_err">导出至剪贴板失败</string>
+</resources>
